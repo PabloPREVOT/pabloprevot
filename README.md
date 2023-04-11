@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a french developer, who try to progress
+
 <!--
 **PabloPREVOT/PabloPREVOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
