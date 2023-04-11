@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hi there ! 👋 I'm Pablo !
 
-I'm a french developer, who try to progress
+<p>I'm a French developer who loves to learn and continue to gain skills.</p>
 
-<!--
-**PabloPREVOT/PabloPREVOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My last experience was to make notifications for users by adding a PWA (Progressive web app) to the site.</p>
 
-Here are some ideas to get you started:
+<p>Skills : HTML/CSS/Bootstrap/JS/JQuery/Angular/PHP/Symfony/MySQL/GitHub</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I'm currently learning Laravel and Vue.js for the web.</p>
+
+<p>Portfolio : <a href="">Here !</a></p>
+
+<p>How to reach me ? with my proffessional mail : pablo_prevot_dev@outlook.fr</p>
